@@ -1,1 +1,1 @@
-# triple-hazard
+# Triple Hazard Paper
